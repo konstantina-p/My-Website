@@ -1,0 +1,15 @@
+p, h1, h3, li {
+    color: rgb(40, 40, 40);
+}
+
+footer {
+    background-color: rgb(30, 30, 30);
+}
+
+.white {
+    color: white;
+}
+
+.hero{
+    background-image: url("Images/hero.jpg");
+}
